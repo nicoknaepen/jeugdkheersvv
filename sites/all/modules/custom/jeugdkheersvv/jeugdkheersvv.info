@@ -1,0 +1,5 @@
+name = jeugdkheersvv
+core = 7.x
+package = Jeugd K Heers VV
+version = 7.x-1.0
+project = jeugdkheersvv

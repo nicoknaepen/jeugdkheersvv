@@ -1,0 +1,25 @@
+<?php
+/**
+ * Implements hook_install().
+ */
+function jeugdkheersvv_install() {
+  
+}
+
+function jeugdkheersvv_uninstall() {
+
+}
+
+/**
+ * Enable default modules
+ */
+function jeugdkheersvv_update_7001() {
+  //
+}
+
+/**
+ * Enable default modules
+ */
+function jeugdkheersvv_update_7002() {
+  module_enable(array('date_api','ctools','ds','views','features','jeugdkheersvv_team'));
+}

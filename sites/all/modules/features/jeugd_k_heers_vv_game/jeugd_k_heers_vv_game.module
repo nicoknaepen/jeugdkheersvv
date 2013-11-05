@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Jeugd K Heers VV Game feature.
- */
-
-include_once 'jeugd_k_heers_vv_game.features.inc';

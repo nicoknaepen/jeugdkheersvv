@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Jeugd K Heers VV Game feature.
+ */
+
+include_once 'jeugdkheersvv_game.features.inc';
